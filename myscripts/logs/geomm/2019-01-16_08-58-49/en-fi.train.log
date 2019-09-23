@@ -1,0 +1,11 @@
+Compiling cost function...
+Computing gradient of cost function...
+Optimizing...
+ iter		   cost val	    grad. norm
+    0	+0.0000000000000000e+00	7.17275959e+04
+    1	+0.0000000000000000e+00	7.16611323e+04
+    2	+0.0000000000000000e+00	7.16610023e+04
+    3	+0.0000000000000000e+00	7.16610020e+04
+    4	+0.0000000000000000e+00	7.16610021e+04
+Terminated - min stepsize reached after 5 iterations, 8.51 seconds.
+
